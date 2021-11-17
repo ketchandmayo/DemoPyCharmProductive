@@ -14,4 +14,4 @@ A project for demonstrating key PyCharm features. It contains the following modu
 * `sci` - examples for showing Scientific features in PyCharm
 
 * `tests` - a folder with tests for showing Visual tests integration and Visual code coverage
-PYCHARM KRUTO
+* PYCHARM KRUTO
